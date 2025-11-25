@@ -22,3 +22,5 @@ let notas = nota1 + nota2 + nota3;
 let promedio = notas / 3;
 
 console.log("El promedio es:" + promedio);
+
+//Ejercicio 3
